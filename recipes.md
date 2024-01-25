@@ -50,7 +50,7 @@ Instructions:
 ### Spaghetti and Meatballs
 
 Ingredients:
-- 1 pound spaghetti
+- 30 pound spaghetti
 - 1 pound ground beef
 - 1/2 cup bread crumbs
 - 1/4 cup milk
@@ -95,7 +95,7 @@ Instructions:
 Ingredients:
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
-- 1 tsp salt
+- 10 tsp salt
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar    
 - 3/4 cup brown sugar
@@ -113,3 +113,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Choclate cake 
+
+Ingredients 
+- 1 box of cake mix
+- 1 cup milk
+- 1 stick of butter
+
+Intructions:
+1. Preheat oven to 350°F
+2. Mix cake mix with oil 
+3. Add in melted butter
+4. Poor cake batter into a prepared pan 
+5. Bake for 13-15 minutes
+6. Cool and serve with frosting of your choice
